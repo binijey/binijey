@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tetanus</title>
+</head>
+<body>
+
+<h1>"Tetanus: The Threat Lurking in the Shadows"</h1>
+<h2> What is Tetanus?</h2>
+<p>Tetanus is an infection caused by bacteria called Clostridium tetani. When these bacteria enter the body, they produce a toxin that causes painful muscle contractions. Another name for tetanus is “lockjaw”. It often causes a person's neck and jaw muscles to lock, making it hard to open the mouth or swallow.</p>
+
+<h2> Causes and How it Spreads</h2>
+
+<p>Tetanus is an acute infectious disease caused by spores of the bacterium Clostridium tetani. The spores are found everywhere in the environment, particularly in soil, ash, intestinal tracts/feces of animals and humans, and on the surfaces of skin and rusty tools like nails, needles, barbed wire, etc..</p>
+<h3> Common ways tetanus gets into your body</h3>
+<p>The spores can get into someone’s body through broken skin, usually through injuries. Tetanus bacteria are more likely to infect certain breaks in the skin. These include:
+
+Wounds contaminated with dirt, feces (poop), or saliva (spit)
+Puncture wounds (wounds caused by an object, like a nail or needle, breaking the skin)
+Burns
+Crush injuries (injury to a body part due to pressure from another object or being squeezed between two heavy objects)
+Injuries with dead tissue</p>
+<h3>Other ways tetanus gets into your body</h3>
+<p>Tetanus bacteria can also infect someone’s body through breaks in the skin caused by:
+
+Clean superficial wounds (when only the topmost layer of skin is scraped off)
+Surgical procedures
+Insect bites
+Dental infections
+Compound fractures (an exposed broken bone)
+Chronic sores and infections
+Intravenous (IV) drug use
+Intramuscular injections (shots given in a muscle)</p>
+<h3>Time from exposure to illness</h3>
+<p>The incubation period — time from exposure to illness — is usually between 3 and 21 days (average 8 days). However, it may range from 1 day to several months, depending on the kind of wound. Most cases occur within 14 days. In general, doctors see shorter incubation periods with:
+
+More heavily contaminated wounds
+More serious disease</p>
+<h2> Symptoms and Complication</h2>
+<p>People often call tetanus “lockjaw” because one of the most common signs of this infection is tightening of the jaw muscles. Tetanus infection can lead to serious health problems, including being unable to open the mouth and having trouble swallowing and breathing.</p>
+<h3> Symptoms</h3>
+<p>Symptoms of tetanus include:
+
+The first sign is most commonly spasms of the muscles of the jaw, or “lockjaw.”
+
+Boy holding jaw in pain
+Jaw cramping
+Sudden, involuntary muscle spasms — often in the stomach
+Painful muscle stiffness all over the body
+Trouble swallowing
+Seizures (jerking or staring)
+Headache
+Fever and sweating
+Changes in blood pressure and heart rate.</p>
+<h3> Complications</h3>
+<p><p>Serious health problems that can happen because of tetanus include:
+
+Laryngospasm (uncontrolled/involuntary tightening of the vocal cords)
+Fractures (broken bones)
+Pulmonary embolism (blockage of the main artery of the lung or one of its branches by a blood clot that has travelled from elsewhere in the body through the bloodstream)
+Aspiration pneumonia (a lung infection that develops when things like saliva or vomit accidentally go into the lungs)
+Breathing difficulty
+Tetanus can lead to death (1 to 2 in 10 cases are fatal).</p>
+<h2> Diagnosis and Treatment </h2>
+<h3> Diagnosis</h3>
+<p>Doctors can diagnose tetanus by asking about recent history of cuts, scrapes, punctures, and trauma, and examining someone for certain signs and symptoms. There are no hospital lab tests that can confirm tetanus.</p>
+<h3> Treatment</h3>
+<p>Tetanus is a medical emergency requiring:
+
+Evaluation and care in the hospital
+Immediate treatment with medicine called human tetanus immune globulin (TIG)
+Aggressive wound care
+Drugs to control muscle spasms
+Antibiotics
+Tetanus vaccination
+Depending on how serious the infection is, a machine may be required to help someone with tetanus breathe.</p>
+<h2> Prevention</h2>
+<p>Vaccination and good wound care are important to help prevent tetanus infection. Doctors can also use a medicine to help prevent tetanus when someone is seriously hurt and isn’t up to date with tetanus vaccination.</p>
+<h3> Medicine</h3>
+<p>Doctors may use a type of medicine called human tetanus immune globulin (TIG) for someone who has an unclean wound and is not up to date with their tetanus vaccination. These medicines provide immediate protection from the type of bacteria that causes tetanus, but it is not long lasting.</p>
+
+
+</body>
+</html>
